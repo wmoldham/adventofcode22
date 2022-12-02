@@ -1,10 +1,10 @@
 Package: adventofcode22
-Title: What the Package Does (One Line, Title Case)
+Title: Advent of Code 2022
 Version: 0.0.0.9000
 Authors@R: 
     person("William", "Oldham", , "wm.oldham@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0003-3029-4866"))
-Description: What the package does (one paragraph).
+Description: Solutions to Advent of Code 2022 puzzles.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
