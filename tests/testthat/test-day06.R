@@ -1,0 +1,12 @@
+test_that("day 6", {
+  expect_equal(f06(example_data_06(1)), 7)
+  expect_equal(f06(example_data_06(2)), 5)
+  expect_equal(f06(example_data_06(3)), 6)
+  expect_equal(f06(example_data_06(4)), 10)
+  expect_equal(f06(example_data_06(5)), 11)
+  expect_equal(f06(example_data_06(1), len = 14), 19)
+  expect_equal(f06(example_data_06(2), len = 14), 23)
+  expect_equal(f06(example_data_06(3), len = 14), 23)
+  expect_equal(f06(example_data_06(4), len = 14), 29)
+  expect_equal(f06(example_data_06(5), len = 14), 26)
+})

@@ -17,4 +17,5 @@ BugReports: https://github.com/wmoldham/adventofcode22/issues
 Depends: 
     tidyverse
 Imports: 
+    slider,
     stringi
