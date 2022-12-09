@@ -25,9 +25,11 @@ than 100000. For Part Two, \code{f07b(x)} returns the size of the smallest
 directory necessary to delete to make room for the new program.
 }
 \description{
-\href{https://adventofcode.com/2022/day/7}{No Space Left On Device}
+\emph{David Robinson solution}
 }
 \details{
+\href{https://adventofcode.com/2022/day/7}{No Space Left On Device}
+
 \strong{Part One}
 
 You can hear birds chirping and raindrops hitting leaves as the
